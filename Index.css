@@ -1,0 +1,440 @@
+.frame-child {
+    position: absolute;
+    top: 670px;
+    left: 390px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 250px;
+    height: 410px;
+}
+.frame-item {
+    position: absolute;
+    top: 670px;
+    left: 758px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 250px;
+    height: 410px;
+}
+.frame-inner {
+    position: absolute;
+    top: 670px;
+    left: 1130px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 250px;
+    height: 410px;
+}
+.leve-3-pague {
+    position: absolute;
+    top: 966px;
+    left: 1140px;
+    font-family: Arapey;
+    color: #ff0000;
+    display: inline-block;
+    width: 92px;
+    height: 11px;
+}
+.leve-3-pague1 {
+    position: absolute;
+    top: 966px;
+    left: 770px;
+    font-family: Arapey;
+    color: #ff0000;
+    display: inline-block;
+    width: 92px;
+    height: 11px;
+}
+.leve-3-pague2 {
+    position: absolute;
+    top: 966px;
+    left: 400px;
+    font-family: Arapey;
+    color: #ff0000;
+    display: inline-block;
+    width: 92px;
+    height: 11px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 670px;
+    left: 1502px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 250px;
+    height: 410px;
+}
+.camisa-inglaterra- {
+    position: absolute;
+    top: 934px;
+    left: 1512px;
+    font-size: 20px;
+    font-family: Arapey;
+    display: inline-block;
+    width: 230px;
+    height: 24px;
+}
+.leve-3-pague3 {
+    position: absolute;
+    top: 968px;
+    left: 1510px;
+    font-family: Arapey;
+    color: #ff0000;
+    display: inline-block;
+    width: 92px;
+    height: 11px;
+}
+.pix-1-icon {
+    position: absolute;
+    top: 1006px;
+    left: 1510px;
+    width: 18.4px;
+    height: 20px;
+    object-fit: cover;
+}
+.pix-2-icon {
+    position: absolute;
+    top: 1006px;
+    left: 1140px;
+    width: 18.4px;
+    height: 20px;
+    object-fit: cover;
+}
+.pix-3-icon {
+    position: absolute;
+    top: 1006px;
+    left: 770px;
+    width: 18.4px;
+    height: 20px;
+    object-fit: cover;
+}
+.pix-4-icon {
+    position: absolute;
+    top: 1006px;
+    left: 400px;
+    width: 18.4px;
+    height: 20px;
+    object-fit: cover;
+}
+.r15631 {
+    position: absolute;
+    top: 1006px;
+    left: 1528px;
+    display: inline-block;
+    width: 74px;
+    height: 16px;
+}
+.r156311 {
+    position: absolute;
+    top: 1006px;
+    left: 1158px;
+    display: inline-block;
+    width: 74px;
+    height: 16px;
+}
+.r156312 {
+    position: absolute;
+    top: 1006px;
+    left: 418px;
+    display: inline-block;
+    width: 74px;
+    height: 16px;
+}
+.r156313 {
+    position: absolute;
+    top: 1006px;
+    left: 788px;
+    display: inline-block;
+    width: 74px;
+    height: 16px;
+}
+.no-pix {
+    position: absolute;
+    top: 1014px;
+    left: 1602px;
+    font-size: 7px;
+    display: inline-block;
+    width: 37px;
+    height: 10px;
+}
+.no-pix1 {
+    position: absolute;
+    top: 1014px;
+    left: 1232px;
+    font-size: 7px;
+    display: inline-block;
+    width: 37px;
+    height: 10px;
+}
+.no-pix2 {
+    position: absolute;
+    top: 1016px;
+    left: 492px;
+    font-size: 7px;
+    display: inline-block;
+    width: 37px;
+    height: 10px;
+}
+.no-pix3 {
+    position: absolute;
+    top: 1014px;
+    left: 862px;
+    font-size: 7px;
+    display: inline-block;
+    width: 37px;
+    height: 10px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #000;
+    width: 1920px;
+    height: 1080px;
+    font-size: 15px;
+    font-family: 'Aoboshi One';
+}
+.group-child {
+    position: absolute;
+    top: 30px;
+    left: 801px;
+    width: 478px;
+    height: 63px;
+}
+.pesquisar {
+    position: absolute;
+    top: 32px;
+    left: 822px;
+    color: #fff;
+    display: inline-block;
+    width: 388.8px;
+    height: 64.8px;
+}
+.cadastrarlogin {
+    position: absolute;
+    top: 32px;
+    left: 1552px;
+    text-decoration: underline;
+    color: #fff;
+    display: inline-block;
+    width: 337px;
+    height: 25px;
+}
+.promoo-1-icon {
+    position: absolute;
+    top: 127px;
+    left: 512px;
+    width: 1150px;
+    height: 389px;
+    object-fit: cover;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 303px;
+    height: 1080px;
+}
+.retrs {
+    position: absolute;
+    top: 879px;
+    left: 23px;
+    color: #d9d9d9;
+    display: inline-block;
+    width: 127px;
+    height: 53px;
+}
+.sobre-ns {
+    position: absolute;
+    top: 964px;
+    left: 12px;
+    text-decoration: underline;
+    color: #d9d9d9;
+    display: inline-block;
+    width: 257px;
+    height: 57px;
+}
+.todas1 {
+    margin: 0;
+}
+.todas {
+    position: absolute;
+    top: 800px;
+    left: 23px;
+    color: #d9d9d9;
+    display: inline-block;
+    width: 130px;
+    height: 47px;
+}
+.infantis {
+    position: absolute;
+    top: 727px;
+    left: 23px;
+    color: #d9d9d9;
+    display: inline-block;
+    width: 165px;
+    height: 41px;
+}
+.selees {
+    position: absolute;
+    top: 645px;
+    left: 23px;
+    color: #d9d9d9;
+    display: inline-block;
+    width: 170px;
+    height: 50px;
+}
+.espanhois {
+    position: absolute;
+    top: 563px;
+    left: 23px;
+    color: #d9d9d9;
+    display: inline-block;
+    width: 217px;
+    height: 50px;
+}
+.ingleses {
+    position: absolute;
+    top: 484px;
+    left: 23px;
+    color: #d9d9d9;
+    display: inline-block;
+    width: 173px;
+    height: 47px;
+}
+.brasileiros {
+    position: absolute;
+    top: 416px;
+    left: 23px;
+    color: #d9d9d9;
+    display: inline-block;
+    width: 286px;
+    height: 68px;
+}
+.inico {
+    position: absolute;
+    top: 289px;
+    left: 23px;
+    color: #fff;
+    display: inline-block;
+    width: 165px;
+    height: 64px;
+}
+.sport-fashion-1 {
+    position: absolute;
+    top: 14px;
+    left: 0px;
+    width: 267px;
+    height: 275px;
+    object-fit: cover;
+}
+.barca-icon {
+    position: absolute;
+    top: 670px;
+    left: 758px;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+.chealse-1-icon {
+    position: absolute;
+    top: 670px;
+    left: 390px;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+.inter-1-icon {
+    position: absolute;
+    top: 670px;
+    left: 1130px;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+.inglatera-1-icon {
+    position: absolute;
+    top: 670px;
+    left: 1502px;
+    border-radius: 11px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+.r16990 {
+    position: absolute;
+    top: 1027px;
+    left: 1513px;
+    font-size: 13px;
+    font-family: 'Aoboshi One';
+    display: inline-block;
+    width: 74px;
+    height: 21px;
+}
+.r169901 {
+    position: absolute;
+    top: 1027px;
+    left: 402px;
+    font-size: 13px;
+    font-family: 'Aoboshi One';
+    display: inline-block;
+    width: 74px;
+    height: 21px;
+}
+.r169902 {
+    position: absolute;
+    top: 1027px;
+    left: 773px;
+    font-size: 13px;
+    font-family: 'Aoboshi One';
+    display: inline-block;
+    width: 74px;
+    height: 21px;
+}
+.r169903 {
+    position: absolute;
+    top: 1027px;
+    left: 1139px;
+    font-size: 13px;
+    font-family: 'Aoboshi One';
+    display: inline-block;
+    width: 74px;
+    height: 21px;
+}
+.camisa-internacional- {
+    position: absolute;
+    top: 934px;
+    left: 1137px;
+    font-size: 20px;
+}
+.camisa-barcelona- {
+    position: absolute;
+    top: 934px;
+    left: 783px;
+    font-size: 20px;
+}
+.camisa-chelsea- {
+    position: absolute;
+    top: 934px;
+    left: 419px;
+    font-size: 20px;
+}
+.frame-parent {
+    width: 100%;
+    position: relative;
+    height: 1080px;
+    text-align: left;
+    font-size: 48px;
+    color: #000;
+    font-family: Arapey;
+}
+
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
